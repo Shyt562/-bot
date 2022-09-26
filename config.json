@@ -1,0 +1,12 @@
+{
+  "prefix": "k!",
+  "token": "",
+  "owners": [""],
+  "footer": "",
+
+  "msg": {
+    "nsfwWarn": "您需要在限制級頻道中才能使用此命令!",
+    "loading": "正在生成中 請稍後...",
+    "imageNotLoading": "沒有看到照片 ? 點擊這裡查看!"
+  }
+}
